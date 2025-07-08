@@ -1,7 +1,4 @@
 admin1,Admin User,Admin,admin123
-entry1,Entry Operator 1,EntryOperator,entry123
-exit1,Exit Operator 1,ExitOperator,exit123
-cust1,Customer 1,Customer,cust123
-entt1,entry,EntryOperator,entt123
-111,malak,EntryOperator,123
-234,dina,Customer,345
+cust1,customer,Customer,cust123
+ent1,entry operator,EntryOperator,ent123
+exit1,exit operator,ExitOperator,exit123
