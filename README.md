@@ -1,41 +1,64 @@
-# 🚗 Java Parking Management System
+# 🚗 Java Parking Management System (GUI)
 
-A console-based Parking Management System built using **Java**, developed as part of the **Advanced Programming Language** course at **Helwan National University**.
+A full-featured **Parking Management System** developed in **Java** using **Swing GUI**, created for the **Advanced Programming Language** course at **Helwan National University**.
 
-This project simulates a real-life parking experience where vehicles can be added, removed, tracked for parking duration, and charged based on their time of stay.
-
----
-
-## 📌 Features
-
-- 🚙 Vehicle Entry and Exit Management  
-- 📍 Parking Slot Availability Display  
-- ⏱️ Real-Time Duration Tracking  
-- 💰 Automatic Fee Calculation  
-- 🔐 Admin Authentication  
-- 📋 View Parked Vehicle History  
-- 🗂️ File Handling for Data Persistence  
+This system provides a graphical interface for vehicle check-in/check-out, parking slot management, and time-based billing — simulating a real-world parking experience with user-friendly visuals.
 
 ---
 
-## 💻 Technologies Used
+## 🖥️ Built With
 
-- Java (Core Java)
-- Object-Oriented Programming (OOP)
-- Console-based User Interface
-- File I/O (Java File Handling)
+- **Java (JDK)** – Core logic and structure
+- **Swing** – GUI components and event-driven interface
+- **OOP** – Clean code structure and modular design
+- **File Handling** – Save and load user data and vehicle logs
 
 ---
-🧠 Learning Outcomes
-Real-world system simulation using logic and OOP
 
-File management in Java
+## 🌟 Features
 
-Clean code structure with modular functions
+- 🧾 **Vehicle Entry & Exit** with visual confirmation
+- 📊 **Real-Time Parking Slot Availability**
+- ⏱️ **Automatic Billing** based on parking duration
+- 🔐 **Admin Login Panel** to manage access
+- 📋 **Vehicle History Logs** stored in local files
+- 💾 **Persistent Data** using text files (no external DB required)
+- 🎨 **Responsive GUI** built with Swing
+- 🔄 **Input Validation & Edge Case Handling**
 
-Team collaboration in Java project development
+---
 
-👥 Team Members
+## 🎯 Learning Objectives
+
+Design and build GUI applications using Swing
+
+Implement real-world system logic with OOP
+
+Persist data using file I/O
+
+Apply event-driven programming in Java
+
+Collaborate as a team on software development projects
+
+## 📚 Course Information
+
+Course: Advanced Programming Language
+
+University: Helwan National University
+
+## 🔮 Possible Future Enhancements
+Add database integration (e.g., MySQL)
+
+Vehicle type classification (car, motorcycle, etc.)
+
+Export reports (PDF/Excel)
+
+Advanced dashboard with analytics
+
+QR code for ticketing system
+
+## 👥 Team Members
+
 Alaa Aly
 
 Alber Ehap
@@ -48,7 +71,7 @@ Menna Elbanna
 
 Radwa Yousry
 
-📄 License
+## 📄 License
 This project is for academic and learning purposes.
 
 📫 Contact
